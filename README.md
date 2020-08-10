@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋
-
 Welcome to my page!
 My name is German Proshunin and I'm an Android Developer. I'm from Russia, living in Yekaterinburg and currently looking for work 🔍.
 
@@ -29,9 +16,9 @@ I usually use: `Kotlin`, `Architecture Components`,  `Navigation Component`, `Re
 
 ### 📋 GitHub Info
 
-![Florarium repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=Florarium)
-![NewsApplication repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=NewsApplication)
+![Florarium repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=Florarium&theme=buefy)
+![NewsApplication repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=NewsApplication&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonlatte&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonlatte&layout=compact&theme=buefy)
 
 ![German's github stats](https://github-readme-stats.vercel.app/api?username=anonlatte&show_icons=true&theme=buefy)
