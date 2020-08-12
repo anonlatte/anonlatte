@@ -16,8 +16,8 @@ I usually use: `Kotlin`, `Architecture Components`,  `Navigation Component`, `Re
 
 ### 📋 GitHub Info
 
-![Florarium repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=Florarium&theme=buefy)
-![NewsApplication repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=NewsApplication&theme=buefy)
+[![Florarium repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=Florarium&theme=buefy)](https://github.com/anonlatte/Florarium)
+[![NewsApplication repo](https://github-readme-stats.vercel.app/api/pin/?username=anonlatte&repo=NewsApplication&theme=buefy)](https://github.com/anonlatte/NewsApplication)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonlatte&layout=compact&theme=buefy)
 
