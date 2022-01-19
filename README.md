@@ -9,7 +9,7 @@ My name is German Proshunin and I'm an Android Developer. I'm from Russia, livin
 ### ⚙️ Technologies
 I usually use: `Kotlin`, `Coroutines`, `Jetpack Components`, `Retrofit`, `Dagger2`, `Coil`.
 
-### 🌱 <img src="https://github.com/fluidicon.png" alt="Github logo" height="24" width="24" />  I’m currently working on [Florarium](https://github.com/anonlatte/Florarium) and [Custom Github Client](https://github.com/anonlatte/GithubClient)
+### 🌱 <img src="https://github.com/fluidicon.png" alt="Github logo" height="24" width="24" />  I’m currently working on [Florarium](https://github.com/anonlatte/Florarium)
 
 ### 📋 GitHub Info
 
