@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my page!
-My name is German Proshunin and I'm an Android Developer.
+My name is Herman Proshunin and I'm an Android Developer.
 ### 📨 Additional contacts
 
 [![Telegram Badge](https://img.shields.io/badge/-anonlatte-blue?logo=telegram&logoColor=white&link=https://t.me/anonlatte/)](https://t.me/anonlatte/)
